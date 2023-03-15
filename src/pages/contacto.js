@@ -75,7 +75,7 @@ const ContactPage = () => {
         </section>
 
         <section className="container my-5">
-          <iframe className="border rounded pulse animated" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3389.2622499915515!2d-116.57212868530078!3d31.8450782382233!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d88fca1ebabc85%3A0x2bb76bb76c87361a!2sINFOTEK!5e0!3m2!1ses!2smx!4v1584594490932!5m2!1ses!2smx" width="100%" height="400" frameBorder="0" allowFullScreen="" aria-hidden="false"></iframe>
+          <iframe className="border rounded pulse animated" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1345.083232101786!2d-116.60441713944095!3d31.841400195617005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d88d1a44277939%3A0x85801afe27274858!2sGrupo%20Yerac%20Business%20Center!5e0!3m2!1ses!2smx!4v1666456202949!5m2!1ses!2smx" width="100%" height="400" frameBorder="0" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </section>
 
         <section className="container pt-5">
@@ -181,7 +181,7 @@ const ContactPage = () => {
 
             <div className="col-md-4">
               <h6 className="text-dark pb-2">Dirección</h6>
-              <p className="small pb-4">Calle Atoyac 375 No.10, Col. Villa Bonita, Ensenada, BC. 22852</p>
+              <p className="small pb-4">Carr. Transpeninsular, No6 Oficina 1, Col. Fracc. Acapulco, Blvd. Estancia, Cp. 22780 Ensenada, B.C.</p>
             
               <h6 className="text-dark pb-2">Horario</h6>
               <ul className="small pb-4">
@@ -191,7 +191,7 @@ const ContactPage = () => {
          
               <h6 className="text-dark pb-2">Telefonos</h6>
               <ul className="small pb-4">
-                <li className="mb-2"><i className="mdi mdi-chevron-right pr-1"></i>Teléfono Fijo: (646) 978 5965</li>
+                <li className="mb-2"><i className="mdi mdi-chevron-right pr-1"></i>Teléfono Fijo: (646) 596 3828</li>
                 <li className="mb-2"><i className="mdi mdi-chevron-right pr-1"></i>Teléfono Movil MEX: (646) 207 0886</li>
                 <li className="mb-2"><i className="mdi mdi-chevron-right pr-1"></i>Teléfono Movil EEUU: (909) 904 9064</li>
                 <li className="mb-2"><i className="mdi mdi-chevron-right pr-1"></i>Email: info@bajacargosolutions.com</li>

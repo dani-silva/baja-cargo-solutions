@@ -7,7 +7,7 @@ module.exports = {
       weChat: 'https://wechat.com'
     },
     email: 'info@bajacargosolutions.com',
-    phone: '(646) 978 5965',
+    phone: '(646) 596 3828',
     author: `@dovlius`
   },
   plugins: [

@@ -52,7 +52,7 @@ const Layout = ({ location, children, en = false }) => {
             nav={[
               {to: '/', link: 'Inicio'},
               {to: '/servicios', link: 'Servicios'},
-              {to: '/nosotros', link: 'Nosotros'}
+              {to: '/nosotros', link: 'Nosotros'},
             ]}
             action={{to: '/contacto', link: 'Contacto'}}
           />
