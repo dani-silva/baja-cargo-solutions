@@ -57,14 +57,6 @@ const IndexPage = () => {
 
       <Carousel />
 
-      <div className="container">
-        <div className="alert alert-info my-5">
-          <p>VACANTE COORDINADOR DE LOGISTICA – ENSENADA</p>
-          <p>El candidato a Coordinador de logística será responsable de organizar y brindar soluciones eficientes de transporte y almacenamiento para nuestros requisitos de envío. </p>
-          <a href="/vacantes.pdf" className="btn px-0" target="_blank">Más información <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style={{width: 15, height: 15}}><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" /></svg></a>
-        </div>
-      </div>
-
       <SectionImage 
         tag="Exportaciones e importaciones"
         title="Baja Cargo Solutions"

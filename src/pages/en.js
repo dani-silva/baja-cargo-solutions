@@ -57,14 +57,6 @@ const EnglishPage = () => {
 
       <Carousel en={true} />
 
-      <div className="container">
-        <div className="alert alert-info my-5">
-          <p>LOGISTICS COORDINATOR – ENSENADA</p>
-          <p>The Logistics Coordinator candidate will be responsible for organizing and providing efficient transportation and storage solutions for our shipping requirements.</p>
-          <a href="/vacantes.pdf" className="btn px-0" target="_blank">More information <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style={{width: 15, height: 15}}><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" /></svg></a>
-        </div>
-      </div>
-
       <SectionImage 
         tag="Exports and imports"
         title="Baja Cargo Solutions"
